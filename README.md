@@ -16,8 +16,12 @@
 
 ## 📊 Atividade & Linguagens
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Focalorsz&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Focalorsz&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff"/>
+  <img height="170em"
+    src="https://github-readme-stats-psi-jet.vercel.app/api?username=Focalorsz&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff"
+  />
+  <img height="170em"
+    src="https://github-readme-stats-psi-jet.vercel.app/api/top-langs/?username=Focalorsz&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff"
+  />
 </div>
 
 ---
