@@ -16,11 +16,20 @@
 
 ## 📊 Atividade & Linguagens
 <div align="center">
-  <img height="170em"
-    src="https://github-readme-stats-psi-jet.vercel.app/api?username=Focalorsz&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=ffffff"
+  <img height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Focalorsz&theme=github_dark"
   />
-  <img height="170em"
-    src="https://github-readme-stats-psi-jet.vercel.app/api/top-langs/?username=Focalorsz&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=ffffff"
+  <img height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Focalorsz&theme=github_dark"
+  />
+</div>
+
+<div align="center">
+  <img height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Focalorsz&theme=github_dark"
+  />
+  <img height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Focalorsz&theme=github_dark"
   />
 </div>
 
@@ -37,6 +46,13 @@
 <img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
+
+---
+
+## 📂 Projetos em destaque
+- [LaTex_Samples](https://github.com/Focalorsz/LaTex_Samples) — templates e amostras em LaTeX para editoração técnica e acadêmica.
+- [Guia de Cálculo 2](https://github.com/Focalorsz) — material didático estruturado em LaTeX para apoio ao estudo.
+- Repositórios acadêmicos e colaborativos focados em documentação, organização e desenvolvimento de soluções.
 
 ---
 
