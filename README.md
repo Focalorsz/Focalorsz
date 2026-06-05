@@ -51,8 +51,6 @@
 
 ## 📂 Projetos em destaque
 - [LaTex_Samples](https://github.com/Focalorsz/LaTex_Samples) — templates e amostras em LaTeX para editoração técnica e acadêmica.
-- [Guia de Cálculo 2](https://github.com/Focalorsz) — material didático estruturado em LaTeX para apoio ao estudo.
-- Repositórios acadêmicos e colaborativos focados em documentação, organização e desenvolvimento de soluções.
 
 ---
 
